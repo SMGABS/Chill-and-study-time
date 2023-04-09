@@ -34,7 +34,7 @@ import java.util.Scanner;
 	}
 			double average = sum / n;
 			
-			System.out.print("Average Height: "+ average);
+			System.out.printf("Average Height: %.2f%n", average);
 			
 					
 	entry.close();
