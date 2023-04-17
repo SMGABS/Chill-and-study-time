@@ -2,8 +2,7 @@ package vetores;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-
+import vetores.Rooms;
 
 public class Program {
 	
